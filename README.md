@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer languages 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me instagram whaaajohn or discord: lethimcook0
+- 📫 How to reach me jonathanjj41153486@gmail.com or discord: lethimcook0
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Coding feels like a game 
 
