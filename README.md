@@ -2,11 +2,5 @@
 - 👀 I’m interested in computer languages 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me jonathanjj41153486@gmail.com or discord: lethimcook0
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Coding feels like a game 
-
-<!---
-Whaaajohn/Whaaajohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: Coding feels like a game
